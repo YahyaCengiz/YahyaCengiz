@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YahyaCengiz
-- 👀 I’m interested in cybersecurity and mobile app development.
+- 👀 I’m interested in cybersecurity and Web Development.
 - 🌱 I’m currently learning python,c/c++, cybersecurity...
 - 💞️ I’m looking to collaborate on any project that interests me.
 - 📫 How to reach me: yahyailhancengiz@outlook.com
